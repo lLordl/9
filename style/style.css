@@ -1,0 +1,94 @@
+.logo{
+	width:150px;
+	margin-left:70px;
+	
+}
+
+header li{
+	display:inline-block;
+   
+    margin-left:20px;
+}
+ul{
+	margin-left:300px;
+	margin-bottom:20px;
+    display:inline-block;
+    text-transform:uppercase;
+}
+header a{
+	 color: blue;
+     font-size:20px;
+
+}
+header{
+	display:inline-block;
+}
+nav{
+	display:inline-block;
+
+}
+.line{
+	background-color:#EE4036;
+	height:70px;
+}
+.line p{
+	color:white;
+	margin-left:80px;
+}
+.line2{
+	height:2px;
+	background-color:#EE4036;
+	margin-top:25px;
+}
+.navbar{
+	float:right;
+	width:300px;
+	display:inline-block;
+    margin-left:450px;
+}
+.box1{
+	width:350px;
+	margin-left:110px;
+	margin-top:100px;
+	display:inline-block;
+}
+.box2{
+	width:450px;
+	margin-left:110px;
+	margin-top:80px;
+	display:inline-block;
+}
+.box3{
+	width:350px;
+	margin-left:110px;
+	margin-top:100px;
+	display:inline-block;
+}
+.man1{
+	width:250px;
+	margin-left:110px;
+	margin-top:70px;
+	display:inline-block;
+}
+.man2{
+	width:250px;
+	margin-left:110px;
+	margin-top:70px;
+	display:inline-block;
+}
+.man3{
+	width:250px;
+	margin-left:110px;
+	margin-top:70px;
+	display:inline-block;
+}
+.man4{
+	width:250px;
+	margin-left:110px;
+	margin-top:70px;
+	display:inline-block;
+}
+.last{
+	width:1700px;
+	display:inline-block;
+}
